@@ -26,7 +26,9 @@
   https://text-editor-3fuq.onrender.com
   
   ## Tests
-  N/A
+  ![19](https://github.com/user-attachments/assets/f7df39c3-5ad0-478c-b3b1-9edd361b8000)
+
+  ![19 1](https://github.com/user-attachments/assets/f14d9177-206d-4c13-be0e-3e47ffe5a5d5)
   
   ## Questions
   For questions about the project, please contact [@fabianmedina3012](https://github.com/fabianmedina3012) or fabiancermeno@gmail.com.
